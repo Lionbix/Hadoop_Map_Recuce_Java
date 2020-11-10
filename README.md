@@ -8,28 +8,28 @@ The term "species" was used to describe which column we need to groupby. But I q
 Those are the commands to use for lauch one excercice in particular:
 1.8.1
 
->yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_1 /user/<username>/trees.csv /user/<username>/<your_output_folder>
+>yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_1 /user/"username"/trees.csv /user/"username"/"your_output_folder"
   
 1.8.2
 
->yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_2 /user/<username>/trees.csv /user/<username>/<your_output_folder>
+>yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_2 /user/"username"/trees.csv /user/"username"/"your_output_folder"
 
 1.8.3
 
->yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_3 /user/<username>/trees.csv /user/<username>/<your_output_folder>
+>yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_3 /user/"username"/trees.csv /user/"username"/"your_output_folder"
 
 1.8.4
 
->yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_4 /user/<username>/trees.csv /user/<username>/<your_output_folder>
+>yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_4 /user/"username"/trees.csv /user/"username"/"your_output_folder"
 
 1.8.5
 
->yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_5 /user/<username>/trees.csv /user/<username>/<your_output_folder>
+>yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_5/ user/"username"/trees.csv /user/"username"/"your_output_folder"
 
 1.8.6
 
->yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_6 /user/<username>/trees.csv /user/<username>/<your_output_folder>
+>yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_6 /user/"username"/trees.csv /user/"username"/"your_output_folder">
 
 1.8.7
 
->yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_7 /user/<username>/trees.csv /user/<username>/<your_output_folder> /user/<username>/<your_output_folder2>
+>yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_7 /user/"username"/trees.csv /user/"username"/"your_output_folder" /user/"username"/"your_output_folder2"
