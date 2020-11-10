@@ -1,5 +1,5 @@
 # Markdown
-You can find the Markdown file which resume the result of each exercice at the root
+You can find the Markdown file which resume the result of each exercice at the root as "tp_bizet_hamdi.md"
 
 # Statement problem for 1.8.4 & 1.8.5
 The term "species" was used to describe which column we need to groupby. But I quote : "For example, the tallest Acer is 16m, the tallest Platanus is 45m, etc." Acer isn't a species but a gender. So for both exercices we used the column "ESPECE" and not "GENRE"
