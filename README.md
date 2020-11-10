@@ -8,6 +8,7 @@ The term "species" was used to describe which column we need to groupby. But I q
 Those are the commands to use for lauch one excercice in particular:
 >1.8.1
 yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_1 /user/<username>/trees.csv /user/<username>/<your_output_folder>
+  
 > 1.8.2
 yarn jar hadoop-examples-mapreduce-1.0-SNAPSHOT-jar-with-dependencies.jar wordcount_1_8_2 /user/<username>/trees.csv /user/<username>/<your_output_folder>
 > 1.8.3
